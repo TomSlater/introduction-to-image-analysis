@@ -90,9 +90,12 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 		<tr>
 			<td></td>
-			<td colspan=2>
+			<td colspan=3>
 			<ul>
-				<li>Ainhoa Dafis‑Sagarmendi (Nikon)</li>
+				<li>Joe Airey & Ainhoa Dafis‑Sagarmendi (Nikon)</li>
+				<ul>
+					<li>One software, many paths: classical, AI-based and open-source analysis in NIS-Elements</li>
+				</ul>
 			</ul>
 			</td>
 		</tr>
