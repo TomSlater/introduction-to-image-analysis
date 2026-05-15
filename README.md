@@ -278,8 +278,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 				<ul>
 				<li>Dave Barry</li>
 				<ul>
-					<li>Annotations and metadata</li>
-					<li>Shallow vs. deep learning</li>
+					<li>What is machine learning?</li>
+					<li>"Painting" to train a machine learning model</li>
 					<li>Example software tools for light microscopy data</li>
 				</ul>
 				</ul>
