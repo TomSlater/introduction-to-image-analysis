@@ -131,8 +131,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<ul>
 				<li>Dave Barry</li>
 				<ul>
-					<li>Counting and quantifying morphology of three-dimensional objects</li>
-					<li>Quantifying fluorescence intensities of three-dimensional objects</li>
+					<li>Adding more dimensions: Segmenting and analysing three-dimensional objects with MorphoLibJ</li>
 				</ul>
 			</ul>
 			</td>
